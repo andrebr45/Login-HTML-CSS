@@ -19,7 +19,7 @@ ATENÇÃO - PASSOS
 ----------------------------  
 </div>
 <div align="center">
-  <a href="https://github.com/andrebr45/HTML-Cadastro-Blue/archive/refs/heads/main.zip">
+  <a href="https://github.com/andrebr45/Login-HTML-CSS/archive/refs/heads/main.zip">
   <h3>1° - Baixe a Pasta ZIP </h3>
   <h2>Baixar Aqui </a></h2>
 </div>
